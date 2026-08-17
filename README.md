@@ -1,99 +1,99 @@
-Câu 1. (Nhận biết) Theo Điều 609 Bộ luật Dân sự 2015, cá nhân có quyền nào sau đây?
+Câu 21. (Nhận biết) Người để lại thừa kế là:
 
-***A.** Lập di chúc để định đoạt tài sản của mình.
+**A.** Người đang quản lý tài sản của người khác.
 
-**B.** Lập di chúc để định đoạt tài sản của người khác.
+***B.** Cá nhân sau khi chết có tài sản để lại cho người khác.
 
-**C.** Chỉ định đoạt tài sản sau khi đã chết.
+**C.** Người được nhận tài sản theo di chúc.
 
-**D.** Tước quyền thừa kế của mọi người mà không cần lập di chúc.
+**D.** Người thay mặt các đồng thừa kế phân chia tài sản.
 
-Câu 2. (Nhận biết) Quyền thừa kế của người để lại di sản được hiểu là:
+Câu 22. (Nhận biết) Chủ thể nào có thể trở thành người để lại thừa kế?
 
-**A.** Quyền nhận tài sản của bất kỳ người nào đã chết.
+***A.** Cá nhân.
 
-***B.** Quyền để lại tài sản của mình cho người khác hưởng sau khi chết.
+**B.** Cá nhân và pháp nhân.
 
-**C.** Quyền quản lý tài sản của những người thừa kế.
+**C.** Chỉ người từ đủ 18 tuổi trở lên.
 
-**D.** Quyền yêu cầu Nhà nước phân chia tài sản của mình.
+**D.** Mọi cơ quan, tổ chức có tài sản.
 
-Câu 3. (Nhận biết) Quyền thừa kế của người còn sống được hiểu là:
+Câu 23. (Thông hiểu) Vì sao pháp nhân không thể là người để lại thừa kế?
 
-**A.** Quyền quản lý toàn bộ tài sản của người đã chết.
+**A.** Vì pháp nhân không được quyền sở hữu tài sản.
 
-**B.** Quyền tự xác định phần di sản mà mình muốn nhận.
+**B.** Vì pháp nhân không được tham gia quan hệ dân sự.
 
-***C.** Quyền hưởng di sản do người khác để lại theo di chúc hoặc theo pháp luật.
+***C.** Vì thừa kế gắn với sự kiện một cá nhân chết.
 
-**D.** Quyền chiếm hữu tài sản của người chết mà không cần căn cứ pháp luật.
+**D.** Vì tài sản của pháp nhân luôn thuộc về Nhà nước.
 
-Câu 4. (Thông hiểu) Theo Điều 609 Bộ luật Dân sự 2015, cá nhân có thể hưởng di sản bằng những hình thức nào?
+Câu 24. (Nhận biết) Người chưa thành niên có tài sản riêng có thể là người để lại thừa kế không?
 
-**A.** Chỉ theo di chúc.
+***A.** Có, nếu sau khi chết có tài sản thuộc sở hữu của mình để lại.
 
-**B.** Chỉ theo pháp luật.
+**B.** Không, vì chưa có năng lực hành vi dân sự đầy đủ.
 
-**C.** Theo thỏa thuận hoặc theo quyết định của người quản lý di sản.
+**C.** Không, vì chỉ người đủ 18 tuổi mới có quyền sở hữu tài sản.
 
-***D.** Theo di chúc hoặc theo pháp luật.
+**D.** Có, nhưng chỉ khi đã lập di chúc.
 
-Câu 5. (Thông hiểu) Nội dung nào sau đây thuộc quyền để lại di sản của cá nhân?
+Câu 25. (Thông hiểu) Điều kiện cơ bản để một cá nhân trở thành người để lại thừa kế là:
 
-**A.** Định đoạt cả tài sản không thuộc sở hữu của mình.
+**A.** Phải đủ 18 tuổi và đã lập di chúc.
 
-***B.** Lập di chúc để xác định người được hưởng tài sản của mình sau khi chết.
+**B.** Phải có vợ, chồng hoặc con.
 
-**C.** Yêu cầu người thừa kế phải nhận di sản trong mọi trường hợp.
+**C.** Phải có tài sản chung với người khác.
 
-**D.** Không cho phép người thừa kế từ chối nhận di sản.
+***D.** Cá nhân đó đã chết và có tài sản để lại.
 
-Câu 6. (Nhận biết) Theo Điều 610 Bộ luật Dân sự 2015, mọi cá nhân đều:
+Câu 26. (Thông hiểu) Nhận định nào sau đây đúng về người để lại thừa kế?
 
-**A.** Có phần di sản được hưởng bằng nhau trong mọi trường hợp.
+**A.** Người để lại thừa kế bắt buộc phải lập di chúc.
 
-**B.** Bắt buộc phải lập di chúc trước khi chết.
+***B.** Người để lại thừa kế có thể để lại tài sản theo di chúc hoặc theo pháp luật.
 
-***C.** Bình đẳng về quyền để lại tài sản và quyền hưởng di sản.
+**C.** Người để lại thừa kế chỉ có thể là người đã thành niên.
 
-**D.** Chỉ được để lại tài sản cho người có quan hệ huyết thống.
+**D.** Người để lại thừa kế có thể là một doanh nghiệp đã giải thể.
 
-Câu 7. (Thông hiểu) Nguyên tắc bình đẳng về quyền thừa kế có nghĩa là:
+Câu 27. (Vận dụng) Anh A chết và để lại một căn nhà thuộc sở hữu riêng nhưng không lập di chúc. Trong trường hợp này, anh A:
 
-***A.** Cá nhân không bị phân biệt đối xử khi thực hiện quyền để lại hoặc hưởng di sản.
+**A.** Không phải là người để lại thừa kế vì không có di chúc.
 
-**B.** Mọi người thừa kế đều phải được nhận phần di sản có giá trị bằng nhau.
+**B.** Chỉ là người sở hữu tài sản, không phát sinh quan hệ thừa kế.
 
-**C.** Người thừa kế theo di chúc luôn được hưởng bằng người thừa kế theo pháp luật.
+***C.** Là người để lại thừa kế và di sản được chia theo pháp luật.
 
-**D.** Mọi cá nhân đều được quyền hưởng di sản của bất kỳ người nào đã chết.
+**D.** Là người thừa kế theo pháp luật.
 
-Câu 8. (Vận dụng) Ông A lập di chúc hợp pháp để lại tài sản của mình cho một người không có quan hệ huyết thống. Việc này thể hiện:
+Câu 28. (Vận dụng) B là người chưa thành niên, có một khoản tiền được tặng cho riêng. B qua đời do tai nạn. Nhận định nào đúng?
 
-**A.** Quyền hưởng di sản theo pháp luật của người được chỉ định.
+**A.** B không thể để lại thừa kế vì chưa đủ 18 tuổi.
 
-**B.** Quyền quản lý di sản của người lập di chúc.
+**B.** Khoản tiền tự động thuộc về người đã tặng cho B.
 
-***C.** Quyền lập di chúc để định đoạt tài sản của cá nhân.
+**C.** Khoản tiền không được coi là di sản vì B chưa thành niên.
 
-**D.** Quyền đương nhiên nhận di sản của mọi cá nhân.
+***D.** B có thể là người để lại thừa kế vì có tài sản riêng.
 
-Câu 9. (Vận dụng) Bà B không lập di chúc. Sau khi bà chết, các con của bà được hưởng di sản theo quy định pháp luật. Trường hợp này thể hiện:
+Câu 29. (Vận dụng) Công ty X bị giải thể và còn một số tài sản. Công ty X có phải là người để lại thừa kế không?
 
-**A.** Quyền định đoạt tài sản của các con bà B.
+**A.** Có, vì công ty có tài sản.
 
-***B.** Quyền hưởng di sản theo pháp luật.
+***B.** Không, vì người để lại thừa kế chỉ có thể là cá nhân.
 
-**C.** Quyền hưởng di sản theo di chúc.
+**C.** Có, nếu công ty lập văn bản phân chia tài sản.
 
-**D.** Quyền chiếm hữu tài sản không có căn cứ pháp luật.
+**D.** Có, nếu các thành viên của công ty đồng ý.
 
-Câu 10. (Vận dụng) Nhận định nào sau đây không đúng với Điều 609–610 Bộ luật Dân sự 2015?
+Câu 30. (Vận dụng) Trường hợp nào sau đây xác định đúng người để lại thừa kế?
 
-**A.** Cá nhân có quyền lập di chúc để định đoạt tài sản của mình.
+**A.** Ông A đang sống và tặng căn nhà cho con.
 
-**B.** Cá nhân có quyền hưởng di sản theo di chúc hoặc theo pháp luật.
+**B.** Bà B nhận di sản từ người chồng đã chết.
 
-**C.** Mọi cá nhân bình đẳng về quyền để lại tài sản và quyền hưởng di sản.
+***C.** Ông C chết và để lại khoản tiền thuộc sở hữu của mình.
 
-***D.** Quyền để lại và quyền hưởng di sản chỉ dành cho người đã thành niên.
+**D.** Công ty D giải thể và thanh lý tài sản.
