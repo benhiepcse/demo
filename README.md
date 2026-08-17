@@ -1,99 +1,99 @@
-Câu 1. (Nhận biết) Thừa kế được hiểu là gì?
+Câu 1. (Nhận biết) Theo Điều 609 Bộ luật Dân sự 2015, cá nhân có quyền nào sau đây?
 
-***A.** Sự chuyển dịch tài sản của người chết cho người còn sống.
+***A.** Lập di chúc để định đoạt tài sản của mình.
 
-**B.** Sự chuyển giao tài sản giữa những người còn sống.
+**B.** Lập di chúc để định đoạt tài sản của người khác.
 
-**C.** Việc Nhà nước thu hồi tài sản của cá nhân đã chết.
+**C.** Chỉ định đoạt tài sản sau khi đã chết.
 
-**D.** Việc phân chia tài sản chung trong thời kỳ hôn nhân.
+**D.** Tước quyền thừa kế của mọi người mà không cần lập di chúc.
 
-Câu 2. (Nhận biết) Nội dung cốt lõi của quan hệ thừa kế là sự chuyển dịch:
+Câu 2. (Nhận biết) Quyền thừa kế của người để lại di sản được hiểu là:
 
-**A.** Quyền nhân thân của người chết.
+**A.** Quyền nhận tài sản của bất kỳ người nào đã chết.
 
-***B.** Tài sản của người chết cho người còn sống.
+***B.** Quyền để lại tài sản của mình cho người khác hưởng sau khi chết.
 
-**C.** Mọi quyền và nghĩa vụ của người chết.
+**C.** Quyền quản lý tài sản của những người thừa kế.
 
-**D.** Tài sản của người còn sống cho người đã chết.
+**D.** Quyền yêu cầu Nhà nước phân chia tài sản của mình.
 
-Câu 3. (Thông hiểu) Chủ thể có tài sản được chuyển dịch trong quan hệ thừa kế là:
+Câu 3. (Nhận biết) Quyền thừa kế của người còn sống được hiểu là:
 
-**A.** Người đang quản lý tài sản.
+**A.** Quyền quản lý toàn bộ tài sản của người đã chết.
 
-**B.** Người được chỉ định trong di chúc.
+**B.** Quyền tự xác định phần di sản mà mình muốn nhận.
 
-***C.** Người đã chết và có tài sản để lại.
+***C.** Quyền hưởng di sản do người khác để lại theo di chúc hoặc theo pháp luật.
 
-**D.** Cơ quan có thẩm quyền phân chia tài sản.
+**D.** Quyền chiếm hữu tài sản của người chết mà không cần căn cứ pháp luật.
 
-Câu 4. (Thông hiểu) Sự kiện nào làm phát sinh việc chuyển dịch tài sản trong quan hệ thừa kế?
+Câu 4. (Thông hiểu) Theo Điều 609 Bộ luật Dân sự 2015, cá nhân có thể hưởng di sản bằng những hình thức nào?
 
-**A.** Người có tài sản kết hôn.
+**A.** Chỉ theo di chúc.
 
-**B.** Người có tài sản lập di chúc.
+**B.** Chỉ theo pháp luật.
 
-**C.** Người có tài sản mất năng lực hành vi dân sự.
+**C.** Theo thỏa thuận hoặc theo quyết định của người quản lý di sản.
 
-***D.** Người có tài sản chết hoặc bị Tòa án tuyên bố là đã chết.
+***D.** Theo di chúc hoặc theo pháp luật.
 
-Câu 5. (Nhận biết) Đối tượng được chuyển dịch trong quan hệ thừa kế là:
+Câu 5. (Thông hiểu) Nội dung nào sau đây thuộc quyền để lại di sản của cá nhân?
 
-***A.** Di sản của người chết.
+**A.** Định đoạt cả tài sản không thuộc sở hữu của mình.
 
-**B.** Danh dự của người chết.
+***B.** Lập di chúc để xác định người được hưởng tài sản của mình sau khi chết.
 
-**C.** Năng lực pháp luật của người chết.
+**C.** Yêu cầu người thừa kế phải nhận di sản trong mọi trường hợp.
 
-**D.** Mọi quan hệ nhân thân của người chết.
+**D.** Không cho phép người thừa kế từ chối nhận di sản.
 
-Câu 6. (Thông hiểu) Điểm phân biệt cơ bản giữa thừa kế và tặng cho tài sản là gì?
+Câu 6. (Nhận biết) Theo Điều 610 Bộ luật Dân sự 2015, mọi cá nhân đều:
 
-**A.** Thừa kế luôn phải được lập thành văn bản.
+**A.** Có phần di sản được hưởng bằng nhau trong mọi trường hợp.
 
-**B.** Tặng cho chỉ được thực hiện giữa những người thân thích.
+**B.** Bắt buộc phải lập di chúc trước khi chết.
 
-***C.** Thừa kế làm chuyển dịch tài sản sau khi người có tài sản chết.
+***C.** Bình đẳng về quyền để lại tài sản và quyền hưởng di sản.
 
-**D.** Thừa kế không làm thay đổi chủ sở hữu tài sản.
+**D.** Chỉ được để lại tài sản cho người có quan hệ huyết thống.
 
-Câu 7. (Thông hiểu) Nhận định nào sau đây đúng về thừa kế?
+Câu 7. (Thông hiểu) Nguyên tắc bình đẳng về quyền thừa kế có nghĩa là:
 
-**A.** Thừa kế là sự chuyển dịch toàn bộ quyền nhân thân của người chết.
+***A.** Cá nhân không bị phân biệt đối xử khi thực hiện quyền để lại hoặc hưởng di sản.
 
-***B.** Thừa kế là sự kế tục về tài sản giữa người chết và người còn sống.
+**B.** Mọi người thừa kế đều phải được nhận phần di sản có giá trị bằng nhau.
 
-**C.** Thừa kế chỉ phát sinh khi người chết có lập di chúc.
+**C.** Người thừa kế theo di chúc luôn được hưởng bằng người thừa kế theo pháp luật.
 
-**D.** Thừa kế chỉ được áp dụng đối với bất động sản.
+**D.** Mọi cá nhân đều được quyền hưởng di sản của bất kỳ người nào đã chết.
 
-Câu 8. (Thông hiểu) Trường hợp nào sau đây thể hiện một quan hệ thừa kế?
+Câu 8. (Vận dụng) Ông A lập di chúc hợp pháp để lại tài sản của mình cho một người không có quan hệ huyết thống. Việc này thể hiện:
 
-**A.** Ông A bán căn nhà cho ông B.
+**A.** Quyền hưởng di sản theo pháp luật của người được chỉ định.
 
-**B.** Ông A tặng xe máy cho con khi còn sống.
+**B.** Quyền quản lý di sản của người lập di chúc.
 
-**C.** Ông A cho người khác thuê căn nhà của mình.
+***C.** Quyền lập di chúc để định đoạt tài sản của cá nhân.
 
-***D.** Sau khi ông A chết, tài sản của ông được chuyển cho những người thừa kế.
+**D.** Quyền đương nhiên nhận di sản của mọi cá nhân.
 
-Câu 9. (Vận dụng) Ông M chết, để lại một căn nhà cho con theo di chúc hợp pháp. Sự chuyển dịch căn nhà từ ông M sang người con được gọi là:
+Câu 9. (Vận dụng) Bà B không lập di chúc. Sau khi bà chết, các con của bà được hưởng di sản theo quy định pháp luật. Trường hợp này thể hiện:
 
-**A.** Chuyển nhượng tài sản.
+**A.** Quyền định đoạt tài sản của các con bà B.
 
-**B.** Tặng cho tài sản.
+***B.** Quyền hưởng di sản theo pháp luật.
 
-***C.** Thừa kế.
+**C.** Quyền hưởng di sản theo di chúc.
 
-**D.** Cho thuê tài sản.
+**D.** Quyền chiếm hữu tài sản không có căn cứ pháp luật.
 
-Câu 10. (Vận dụng) Nhận định nào sau đây không phản ánh đúng khái niệm thừa kế?
+Câu 10. (Vận dụng) Nhận định nào sau đây không đúng với Điều 609–610 Bộ luật Dân sự 2015?
 
-**A.** Thừa kế gắn với sự kiện một người chết.
+**A.** Cá nhân có quyền lập di chúc để định đoạt tài sản của mình.
 
-**B.** Thừa kế dẫn đến sự chuyển dịch tài sản.
+**B.** Cá nhân có quyền hưởng di sản theo di chúc hoặc theo pháp luật.
 
-**C.** Người nhận di sản phải là chủ thể còn tồn tại theo điều kiện luật định.
+**C.** Mọi cá nhân bình đẳng về quyền để lại tài sản và quyền hưởng di sản.
 
-***D.** Thừa kế là sự chuyển dịch tài sản giữa các chủ thể đều đang còn sống.
+***D.** Quyền để lại và quyền hưởng di sản chỉ dành cho người đã thành niên.
