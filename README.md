@@ -1,99 +1,99 @@
-Câu 21. (Nhận biết) Người để lại thừa kế là:
+Câu 31. (Nhận biết) Theo Điều 612 Bộ luật Dân sự 2015, di sản bao gồm:
 
-**A.** Người đang quản lý tài sản của người khác.
+**A.** Chỉ tài sản riêng của người chết.
 
-***B.** Cá nhân sau khi chết có tài sản để lại cho người khác.
+**B.** Chỉ phần tài sản của người chết trong tài sản chung.
 
-**C.** Người được nhận tài sản theo di chúc.
+***C.** Tài sản riêng của người chết và phần tài sản của người chết trong tài sản chung với người khác.
 
-**D.** Người thay mặt các đồng thừa kế phân chia tài sản.
+**D.** Toàn bộ tài sản chung của người chết với người khác.
 
-Câu 22. (Nhận biết) Chủ thể nào có thể trở thành người để lại thừa kế?
+Câu 32. (Nhận biết) Tài sản riêng của người chết được xác định là:
 
-***A.** Cá nhân.
+***A.** Một bộ phận của di sản thừa kế.
 
-**B.** Cá nhân và pháp nhân.
+**B.** Tài sản của tất cả những người thừa kế.
 
-**C.** Chỉ người từ đủ 18 tuổi trở lên.
+**C.** Tài sản chung của gia đình người chết.
 
-**D.** Mọi cơ quan, tổ chức có tài sản.
+**D.** Tài sản thuộc quyền quản lý của người chết.
 
-Câu 23. (Thông hiểu) Vì sao pháp nhân không thể là người để lại thừa kế?
+Câu 33. (Thông hiểu) Khi người chết có tài sản chung với người khác, phần nào được đưa vào di sản?
 
-**A.** Vì pháp nhân không được quyền sở hữu tài sản.
+**A.** Toàn bộ tài sản chung.
 
-**B.** Vì pháp nhân không được tham gia quan hệ dân sự.
+**B.** Một nửa tài sản chung trong mọi trường hợp.
 
-***C.** Vì thừa kế gắn với sự kiện một cá nhân chết.
+**C.** Phần tài sản thuộc sở hữu của người còn sống.
 
-**D.** Vì tài sản của pháp nhân luôn thuộc về Nhà nước.
+***D.** Phần tài sản thuộc quyền sở hữu của người chết trong khối tài sản chung.
 
-Câu 24. (Nhận biết) Người chưa thành niên có tài sản riêng có thể là người để lại thừa kế không?
+Câu 34. (Thông hiểu) Nhận định nào sau đây đúng về thành phần của di sản?
 
-***A.** Có, nếu sau khi chết có tài sản thuộc sở hữu của mình để lại.
+**A.** Di sản chỉ bao gồm bất động sản.
 
-**B.** Không, vì chưa có năng lực hành vi dân sự đầy đủ.
+***B.** Di sản có thể bao gồm cả động sản và bất động sản thuộc quyền sở hữu của người chết.
 
-**C.** Không, vì chỉ người đủ 18 tuổi mới có quyền sở hữu tài sản.
+**C.** Di sản chỉ bao gồm tài sản có giá trị lớn.
 
-**D.** Có, nhưng chỉ khi đã lập di chúc.
+**D.** Di sản bao gồm mọi tài sản mà người chết từng quản lý.
 
-Câu 25. (Thông hiểu) Điều kiện cơ bản để một cá nhân trở thành người để lại thừa kế là:
+Câu 35. (Thông hiểu) Tài sản do người chết giữ hộ cho người khác có được coi là di sản không?
 
-**A.** Phải đủ 18 tuổi và đã lập di chúc.
+**A.** Có, vì tài sản đang do người chết quản lý.
 
-**B.** Phải có vợ, chồng hoặc con.
+**B.** Có, nếu những người thừa kế không biết việc giữ hộ.
 
-**C.** Phải có tài sản chung với người khác.
+***C.** Không, vì tài sản đó không thuộc quyền sở hữu của người chết.
 
-***D.** Cá nhân đó đã chết và có tài sản để lại.
+**D.** Không, trừ khi người chết có lập di chúc.
 
-Câu 26. (Thông hiểu) Nhận định nào sau đây đúng về người để lại thừa kế?
+Câu 36. (Thông hiểu) Căn cứ quan trọng nhất để xác định một tài sản có thuộc di sản hay không là:
 
-**A.** Người để lại thừa kế bắt buộc phải lập di chúc.
+**A.** Tài sản đang do ai trực tiếp sử dụng.
 
-***B.** Người để lại thừa kế có thể để lại tài sản theo di chúc hoặc theo pháp luật.
+**B.** Tài sản đang được cất giữ ở đâu.
 
-**C.** Người để lại thừa kế chỉ có thể là người đã thành niên.
+**C.** Người thừa kế có yêu cầu nhận tài sản hay không.
 
-**D.** Người để lại thừa kế có thể là một doanh nghiệp đã giải thể.
+***D.** Quyền sở hữu của người chết đối với tài sản đó.
 
-Câu 27. (Vận dụng) Anh A chết và để lại một căn nhà thuộc sở hữu riêng nhưng không lập di chúc. Trong trường hợp này, anh A:
+Câu 37. (Vận dụng) Trước khi kết hôn, ông A có một căn nhà thuộc sở hữu riêng. Sau khi ông A chết, căn nhà này được xác định là:
 
-**A.** Không phải là người để lại thừa kế vì không có di chúc.
+**A.** Tài sản riêng của người vợ.
 
-**B.** Chỉ là người sở hữu tài sản, không phát sinh quan hệ thừa kế.
+**B.** Tài sản chung của tất cả thành viên trong gia đình.
 
-***C.** Là người để lại thừa kế và di sản được chia theo pháp luật.
+***C.** Di sản thừa kế của ông A.
 
-**D.** Là người thừa kế theo pháp luật.
+**D.** Tài sản không được phép phân chia.
 
-Câu 28. (Vận dụng) B là người chưa thành niên, có một khoản tiền được tặng cho riêng. B qua đời do tai nạn. Nhận định nào đúng?
+Câu 38. (Vận dụng) Ông B và ông C cùng sở hữu một thửa đất, mỗi người có một nửa quyền sở hữu. Khi ông B chết, di sản liên quan đến thửa đất là:
 
-**A.** B không thể để lại thừa kế vì chưa đủ 18 tuổi.
+**A.** Toàn bộ thửa đất.
 
-**B.** Khoản tiền tự động thuộc về người đã tặng cho B.
+***B.** Một nửa quyền sở hữu thửa đất thuộc về ông B.
 
-**C.** Khoản tiền không được coi là di sản vì B chưa thành niên.
+**C.** Một nửa quyền sở hữu thửa đất thuộc về ông C.
 
-***D.** B có thể là người để lại thừa kế vì có tài sản riêng.
+**D.** Không có phần nào vì đây là tài sản chung.
 
-Câu 29. (Vận dụng) Công ty X bị giải thể và còn một số tài sản. Công ty X có phải là người để lại thừa kế không?
+Câu 39. (Vận dụng) Ông D đang thuê một căn nhà để sinh sống thì qua đời. Căn nhà thuê có thuộc di sản của ông D không?
 
-**A.** Có, vì công ty có tài sản.
+**A.** Có, vì ông D đang trực tiếp sử dụng căn nhà.
 
-***B.** Không, vì người để lại thừa kế chỉ có thể là cá nhân.
+**B.** Có, vì căn nhà là bất động sản.
 
-**C.** Có, nếu công ty lập văn bản phân chia tài sản.
+**C.** Có, nếu người thừa kế tiếp tục trả tiền thuê.
 
-**D.** Có, nếu các thành viên của công ty đồng ý.
+***D.** Không, vì căn nhà không thuộc quyền sở hữu của ông D.
 
-Câu 30. (Vận dụng) Trường hợp nào sau đây xác định đúng người để lại thừa kế?
+Câu 40. (Vận dụng) Ông M chết, để lại một xe máy thuộc sở hữu riêng và có phần quyền sở hữu trong một mảnh đất chung với ông N. Di sản của ông M bao gồm:
 
-**A.** Ông A đang sống và tặng căn nhà cho con.
+***A.** Xe máy và phần quyền sở hữu của ông M trong mảnh đất chung.
 
-**B.** Bà B nhận di sản từ người chồng đã chết.
+**B.** Xe máy và toàn bộ mảnh đất chung.
 
-***C.** Ông C chết và để lại khoản tiền thuộc sở hữu của mình.
+**C.** Chỉ xe máy vì đất là tài sản chung.
 
-**D.** Công ty D giải thể và thanh lý tài sản.
+**D.** Chỉ phần đất vì xe máy là động sản.
