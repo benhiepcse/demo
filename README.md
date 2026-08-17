@@ -1,99 +1,99 @@
-Câu 51. (Nhận biết) Tài sản do vợ, chồng tạo ra trong thời kỳ hôn nhân về nguyên tắc được xác định là:
+Câu 61. (Nhận biết) Khi người chết có tài sản chung với người khác, phần được tính vào di sản là:
 
-***A.** Tài sản chung của vợ chồng.
+**A.** Toàn bộ khối tài sản chung.
 
-**B.** Tài sản riêng của người trực tiếp tạo ra.
+**B.** Phần tài sản thuộc về những người còn sống.
 
-**C.** Tài sản riêng của người có thu nhập cao hơn.
+***C.** Phần quyền sở hữu của người chết trong khối tài sản chung.
 
-**D.** Tài sản chung của toàn bộ gia đình.
+**D.** Một nửa khối tài sản chung trong mọi trường hợp.
 
-Câu 52. (Nhận biết) Thu nhập do lao động, hoạt động sản xuất và kinh doanh của vợ, chồng trong thời kỳ hôn nhân về nguyên tắc là:
+Câu 62. (Thông hiểu) Trước khi chia thừa kế đối với tài sản thuộc sở hữu chung, cần thực hiện công việc nào?
 
-**A.** Tài sản riêng của mỗi người.
+***A.** Xác định phần quyền sở hữu của người chết trong tài sản chung.
 
-***B.** Tài sản chung của vợ chồng.
+**B.** Chia toàn bộ tài sản cho những người thừa kế.
 
-**C.** Tài sản của người trực tiếp quản lý.
+**C.** Chuyển toàn bộ tài sản cho người đang quản lý.
 
-**D.** Tài sản riêng của người đứng tên.
+**D.** Xác định người thừa kế có công sức đóng góp nhiều nhất.
 
-Câu 53. (Nhận biết) Tài sản mà vợ chồng được thừa kế chung hoặc tặng cho chung là:
+Câu 63. (Thông hiểu) Ông A và ông B cùng sở hữu một tài sản theo phần, trong đó phần sở hữu của mỗi người đã được xác định rõ. Khi ông A chết, di sản là:
 
-**A.** Tài sản riêng của người nhận trước.
+**A.** Toàn bộ tài sản chung của ông A và ông B.
 
-**B.** Tài sản riêng của người có quan hệ với người để lại tài sản.
+***B.** Phần tài sản thuộc quyền sở hữu của ông A.
 
-***C.** Tài sản chung của vợ chồng.
+**C.** Phần tài sản thuộc quyền sở hữu của ông B.
 
-**D.** Tài sản chung của những người thừa kế.
+**D.** Một nửa tài sản, không phụ thuộc tỷ lệ sở hữu đã xác định.
 
-Câu 54. (Thông hiểu) Tài sản khác được xác định là tài sản chung của vợ chồng khi:
+Câu 64. (Thông hiểu) Nam và nữ sống chung như vợ chồng nhưng không được pháp luật công nhận là vợ chồng. Khi giải quyết tài sản chung, căn cứ được ưu tiên áp dụng là:
 
-**A.** Tài sản do một người đứng tên.
+**A.** Mặc nhiên chia đôi như vợ chồng hợp pháp.
 
-**B.** Tài sản do một người trực tiếp sử dụng.
+**B.** Chuyển toàn bộ tài sản cho người đứng tên.
 
-**C.** Tài sản có giá trị lớn.
+***C.** Thỏa thuận của các bên; nếu không có thì xác định theo quy định về sở hữu và công sức đóng góp.
 
-***D.** Vợ chồng có thỏa thuận xác lập tài sản đó là tài sản chung.
+**D.** Chuyển toàn bộ tài sản cho người còn sống.
 
-Câu 55. (Thông hiểu) Quyền sử dụng đất mà vợ hoặc chồng có được sau khi kết hôn về nguyên tắc là:
+Câu 65. (Thông hiểu) Nhận định nào đúng về tài sản của những người sống chung như vợ chồng nhưng không có hôn nhân hợp pháp?
 
-***A.** Tài sản chung của vợ chồng.
+**A.** Mọi tài sản đều đương nhiên là tài sản chung của vợ chồng.
 
-**B.** Tài sản riêng của người đứng tên giấy chứng nhận.
+**B.** Mỗi người luôn được hưởng chính xác một nửa tài sản.
 
-**C.** Tài sản riêng của người trực tiếp thanh toán.
+***C.** Phần tài sản của mỗi người phải được xác định dựa trên thỏa thuận, quyền sở hữu và công sức đóng góp.
 
-**D.** Tài sản chung của cha mẹ và các con.
+**D.** Người đứng tên tài sản luôn được hưởng toàn bộ.
 
-Câu 56. (Thông hiểu) Trường hợp nào sau đây quyền sử dụng đất có được trong thời kỳ hôn nhân vẫn có thể là tài sản riêng?
+Câu 66. (Vận dụng) Ông C và ông D cùng mua một mảnh đất trị giá 800 triệu đồng, mỗi người đóng góp và sở hữu một nửa. Khi ông C chết, phần tài sản được tính vào di sản của ông C là:
 
-**A.** Đất được mua từ thu nhập chung của vợ chồng.
+**A.** 800 triệu đồng.
 
-***B.** Đất được một bên thừa kế riêng hoặc tặng cho riêng.
+***B.** 400 triệu đồng.
 
-**C.** Đất được cả hai vợ chồng nhận tặng cho chung.
+**C.** 200 triệu đồng.
 
-**D.** Đất được vợ chồng thỏa thuận là tài sản chung.
+**D.** Không có phần nào vì đây là tài sản chung.
 
-Câu 57. (Thông hiểu) Hoa lợi, lợi tức phát sinh từ tài sản riêng trong thời kỳ hôn nhân về nguyên tắc được xác định là:
+Câu 67. (Vận dụng) Ông M và bà N không phải vợ chồng hợp pháp nhưng cùng tạo lập khối tài sản trị giá 600 triệu đồng. Hai người có thỏa thuận hợp pháp rằng mỗi người sở hữu một nửa. Khi ông M chết, phần tài sản của ông M trong khối tài sản này là:
 
-**A.** Tài sản riêng của người sở hữu tài sản gốc trong mọi trường hợp.
+**A.** 600 triệu đồng.
 
-***B.** Tài sản chung của vợ chồng, trừ trường hợp pháp luật hoặc thỏa thuận có quy định khác.
+***B.** 300 triệu đồng.
 
-**C.** Tài sản của người trực tiếp thu hoa lợi, lợi tức.
+**C.** 150 triệu đồng.
 
-**D.** Tài sản riêng của người đứng tên tài sản gốc.
+**D.** Không xác định được vì hai người không đăng ký kết hôn.
 
-Câu 58. (Vận dụng) Trong thời kỳ hôn nhân, ông A dùng tiền lương hằng tháng để mua một xe máy và đứng tên riêng. Không có thỏa thuận khác, xe máy được xác định là:
+Câu 68. (Vận dụng) Ông A có vợ hợp pháp là bà B. Trong thời kỳ hôn nhân, ông A sống chung với bà C và cùng bà C tạo lập 400 triệu đồng, mỗi người được xác định đóng góp một nửa. Phần của ông A trong khối tài sản với bà C trước tiên được xác định là:
 
-**A.** Tài sản riêng của ông A vì ông A đứng tên.
+**A.** 400 triệu đồng.
 
-**B.** Tài sản riêng của ông A vì được mua bằng tiền lương của ông.
+***B.** 200 triệu đồng.
 
-***C.** Tài sản chung của vợ chồng vì được mua từ thu nhập trong thời kỳ hôn nhân.
+**C.** 100 triệu đồng.
 
-**D.** Tài sản chung của ông A và các con.
+**D.** Không có phần nào.
 
-Câu 59. (Vận dụng) Sau khi kết hôn, vợ chồng ông B cùng được cha mẹ tặng cho một căn nhà. Căn nhà này là:
+Câu 69. (Vận dụng) Tiếp tục tình huống trên, 200 triệu đồng thuộc phần của ông A được tạo lập trong thời kỳ hôn nhân hợp pháp với bà B và không có căn cứ xác định là tài sản riêng. Phần được tính vào di sản của ông A là:
 
-**A.** Tài sản riêng của ông B.
+**A.** 200 triệu đồng.
 
-**B.** Tài sản riêng của người vợ.
+**B.** 150 triệu đồng.
 
-***C.** Tài sản chung của vợ chồng.
+***C.** 100 triệu đồng.
 
-**D.** Tài sản của cha mẹ cho đến khi vợ chồng ly hôn.
+**D.** 50 triệu đồng.
 
-Câu 60. (Vận dụng) Ông M chết, để lại khối tài sản chung với vợ trị giá 1 tỷ đồng. Không có thỏa thuận khác và không có căn cứ làm thay đổi tỷ lệ sở hữu, phần tài sản của ông M được xác định để đưa vào di sản là:
+Câu 70. (Vận dụng) Ông X có vợ hợp pháp là bà Y, khối tài sản chung của vợ chồng trị giá 1 tỷ đồng. Ông X còn cùng bà Z tạo lập 400 triệu đồng; phần đóng góp của ông X và bà Z ngang nhau, phần của ông X được hình thành trong thời kỳ hôn nhân với bà Y. Di sản của ông X được xác định là:
 
-**A.** 1 tỷ đồng.
+**A.** 1,4 tỷ đồng.
 
-***B.** 500 triệu đồng.
+**B.** 700 triệu đồng.
 
-**C.** 250 triệu đồng.
+***C.** 600 triệu đồng.
 
-**D.** Không có phần nào vì toàn bộ tài sản thuộc về người vợ.
+**D.** 500 triệu đồng.
