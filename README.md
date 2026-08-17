@@ -1,99 +1,99 @@
-Câu 31. (Nhận biết) Theo Điều 612 Bộ luật Dân sự 2015, di sản bao gồm:
+Câu 41. (Nhận biết) Tài sản mà một người có trước khi kết hôn được xác định là:
 
-**A.** Chỉ tài sản riêng của người chết.
+**A.** Tài sản chung của vợ chồng.
 
-**B.** Chỉ phần tài sản của người chết trong tài sản chung.
+***B.** Tài sản riêng của người đó.
 
-***C.** Tài sản riêng của người chết và phần tài sản của người chết trong tài sản chung với người khác.
+**C.** Tài sản chung của gia đình.
 
-**D.** Toàn bộ tài sản chung của người chết với người khác.
+**D.** Di sản thừa kế của cha mẹ người đó.
 
-Câu 32. (Nhận biết) Tài sản riêng của người chết được xác định là:
+Câu 42. (Nhận biết) Tài sản được một người thừa kế riêng trong thời kỳ hôn nhân là:
 
-***A.** Một bộ phận của di sản thừa kế.
+**A.** Tài sản chung của vợ chồng.
 
-**B.** Tài sản của tất cả những người thừa kế.
+**B.** Tài sản thuộc sở hữu của các con.
 
-**C.** Tài sản chung của gia đình người chết.
+***C.** Tài sản riêng của người được hưởng thừa kế.
 
-**D.** Tài sản thuộc quyền quản lý của người chết.
+**D.** Tài sản chung của những người trong cùng hàng thừa kế.
 
-Câu 33. (Thông hiểu) Khi người chết có tài sản chung với người khác, phần nào được đưa vào di sản?
+Câu 43. (Nhận biết) Tài sản được tặng cho riêng trong thời kỳ hôn nhân được xác định là:
 
-**A.** Toàn bộ tài sản chung.
+***A.** Tài sản riêng của người được tặng cho.
 
-**B.** Một nửa tài sản chung trong mọi trường hợp.
+**B.** Tài sản chung của vợ chồng trong mọi trường hợp.
 
-**C.** Phần tài sản thuộc sở hữu của người còn sống.
+**C.** Tài sản chung của gia đình người được tặng cho.
 
-***D.** Phần tài sản thuộc quyền sở hữu của người chết trong khối tài sản chung.
+**D.** Tài sản thuộc sở hữu của người tặng cho.
 
-Câu 34. (Thông hiểu) Nhận định nào sau đây đúng về thành phần của di sản?
+Câu 44. (Thông hiểu) Tài sản được hình thành từ tài sản riêng của vợ hoặc chồng về nguyên tắc là:
 
-**A.** Di sản chỉ bao gồm bất động sản.
+**A.** Tài sản chung của vợ chồng.
 
-***B.** Di sản có thể bao gồm cả động sản và bất động sản thuộc quyền sở hữu của người chết.
+***B.** Tài sản riêng của người có tài sản ban đầu.
 
-**C.** Di sản chỉ bao gồm tài sản có giá trị lớn.
+**C.** Tài sản thuộc sở hữu của người trực tiếp quản lý.
 
-**D.** Di sản bao gồm mọi tài sản mà người chết từng quản lý.
+**D.** Tài sản phải chia đôi khi xác định di sản.
 
-Câu 35. (Thông hiểu) Tài sản do người chết giữ hộ cho người khác có được coi là di sản không?
+Câu 45. (Thông hiểu) Tài sản được chia riêng cho vợ hoặc chồng từ khối tài sản chung trong thời kỳ hôn nhân theo thỏa thuận hợp pháp là:
 
-**A.** Có, vì tài sản đang do người chết quản lý.
+**A.** Tài sản chung chưa phân chia.
 
-**B.** Có, nếu những người thừa kế không biết việc giữ hộ.
+**B.** Tài sản của người trực tiếp tạo lập.
 
-***C.** Không, vì tài sản đó không thuộc quyền sở hữu của người chết.
+***C.** Tài sản riêng của người được chia.
 
-**D.** Không, trừ khi người chết có lập di chúc.
+**D.** Tài sản chung của các con.
 
-Câu 36. (Thông hiểu) Căn cứ quan trọng nhất để xác định một tài sản có thuộc di sản hay không là:
+Câu 46. (Thông hiểu) Khi không có căn cứ chứng minh tài sản đang tranh chấp là tài sản riêng của vợ hoặc chồng, tài sản đó về nguyên tắc được coi là:
 
-**A.** Tài sản đang do ai trực tiếp sử dụng.
+***A.** Tài sản chung của vợ chồng.
 
-**B.** Tài sản đang được cất giữ ở đâu.
+**B.** Tài sản riêng của người đứng tên.
 
-**C.** Người thừa kế có yêu cầu nhận tài sản hay không.
+**C.** Tài sản riêng của người có thu nhập cao hơn.
 
-***D.** Quyền sở hữu của người chết đối với tài sản đó.
+**D.** Tài sản không xác định được chủ sở hữu.
 
-Câu 37. (Vận dụng) Trước khi kết hôn, ông A có một căn nhà thuộc sở hữu riêng. Sau khi ông A chết, căn nhà này được xác định là:
+Câu 47. (Vận dụng) Trước khi kết hôn với bà B, ông A đã sở hữu hợp pháp một căn nhà. Sau khi ông A chết, căn nhà này được xác định là:
 
-**A.** Tài sản riêng của người vợ.
+**A.** Toàn bộ tài sản chung của ông A và bà B.
 
-**B.** Tài sản chung của tất cả thành viên trong gia đình.
+**B.** Một nửa là tài sản của bà B, một nửa là di sản.
 
-***C.** Di sản thừa kế của ông A.
+***C.** Tài sản riêng và được tính vào di sản của ông A.
 
-**D.** Tài sản không được phép phân chia.
+**D.** Tài sản riêng của bà B do quan hệ hôn nhân.
 
-Câu 38. (Vận dụng) Ông B và ông C cùng sở hữu một thửa đất, mỗi người có một nửa quyền sở hữu. Khi ông B chết, di sản liên quan đến thửa đất là:
+Câu 48. (Vận dụng) Trong thời kỳ hôn nhân, bà C được cha mẹ tặng cho riêng một mảnh đất. Bà C chết khi mảnh đất vẫn thuộc sở hữu của mình. Mảnh đất được xác định là:
 
-**A.** Toàn bộ thửa đất.
+**A.** Tài sản chung của vợ chồng và phải chia đôi trước.
 
-***B.** Một nửa quyền sở hữu thửa đất thuộc về ông B.
+***B.** Tài sản riêng và được tính vào di sản của bà C.
 
-**C.** Một nửa quyền sở hữu thửa đất thuộc về ông C.
+**C.** Tài sản của cha mẹ bà C.
 
-**D.** Không có phần nào vì đây là tài sản chung.
+**D.** Tài sản riêng của người chồng.
 
-Câu 39. (Vận dụng) Ông D đang thuê một căn nhà để sinh sống thì qua đời. Căn nhà thuê có thuộc di sản của ông D không?
+Câu 49. (Vận dụng) Ông D dùng toàn bộ tiền riêng có trước khi kết hôn để mua một xe ô tô và có chứng cứ chứng minh nguồn tiền. Về nguyên tắc, xe ô tô là:
 
-**A.** Có, vì ông D đang trực tiếp sử dụng căn nhà.
+**A.** Tài sản chung vì được mua trong thời kỳ hôn nhân.
 
-**B.** Có, vì căn nhà là bất động sản.
+***B.** Tài sản riêng vì được hình thành hoàn toàn từ tài sản riêng.
 
-**C.** Có, nếu người thừa kế tiếp tục trả tiền thuê.
+**C.** Tài sản của người đứng tên đăng ký trong mọi trường hợp.
 
-***D.** Không, vì căn nhà không thuộc quyền sở hữu của ông D.
+**D.** Tài sản chung của ông D và các con.
 
-Câu 40. (Vận dụng) Ông M chết, để lại một xe máy thuộc sở hữu riêng và có phần quyền sở hữu trong một mảnh đất chung với ông N. Di sản của ông M bao gồm:
+Câu 50. (Vận dụng) Trong thời kỳ hôn nhân, ông M được nhận một khoản tiền nhưng không có tài liệu chứng minh đó là tài sản được tặng cho riêng, thừa kế riêng hoặc hình thành từ tài sản riêng. Khi có tranh chấp, khoản tiền này về nguyên tắc được xác định là:
 
-***A.** Xe máy và phần quyền sở hữu của ông M trong mảnh đất chung.
+**A.** Tài sản riêng của ông M.
 
-**B.** Xe máy và toàn bộ mảnh đất chung.
+**B.** Tài sản của người đang giữ tiền.
 
-**C.** Chỉ xe máy vì đất là tài sản chung.
+***C.** Tài sản chung của vợ chồng.
 
-**D.** Chỉ phần đất vì xe máy là động sản.
+**D.** Di sản riêng của ông M.
